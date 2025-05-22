@@ -1,3 +1,3 @@
-module github.com/clancyliu/hello_world/v4
+module github.com/clancyliu/hello_world
 
 go 1.20
